@@ -1,0 +1,35 @@
+<page>
+    <center>
+        <tall>
+            <span>Andy's</span>
+        </tall>
+        <text>shop</text>
+        <txt>Tue October17 2017 18:11:50</txt>
+        <txt>Order: 2</txt>
+    </center>
+    <txt>======================================</txt>
+    <bold>
+        <txt>4 x pepsi</txt>
+        <right>
+            <txt>$1.99</txt>
+        </right>
+        <txt>1 x coke</txt>
+        <right>
+            <txt>$1.85</txt>
+        </right>
+    </bold>
+    <txt>=====================================</txt>
+    <bold>
+        <right>
+            <txt>Subtotal:$9.81</txt>
+            <txt>Tax:$0.49</txt>
+        </right>
+    </bold>
+    <txt>====================================</txt>
+    <bold>
+        <right>Total:$10.30</right>
+    </bold>
+    <br />
+    <br />
+    <cut />
+</page>
